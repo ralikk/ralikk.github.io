@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+I am a Research Assistant in the Department of Industrial Engineering at Tsinghua University (Beijing, China), working under Associate Professor [Dr. Hai Jiang](https://www.ie.tsinghua.edu.cn/eng/info/1051/1023.htm). My research interest lies in the intersection of mathematical modeling, data-driven optimization, machine learning, data analysis, and operations research with applications in transportation, environmental challenges, healthcare, and energy systems.
+
+
+
+My research interests lie at the intersection of mathematical modeling, data- driven optimization, machine learning, data analysis and operations research, with applications in transportation, environmental challenges, healthcare and energy systems. My current research fo- cuses primarily on improving transportation systems through data-driven approaches. This involves using mathematical modeling, optimization techniques, advanced machine learning, and deep learn- ing methods to address challenges in transportation and mobility. The goal is to create innovative solutions that improve the efficiency of transport and user experience.
+
+
 Rafaqat Ali is a Research Assistant in the Department of Industrial Engineering at Tsinghua University, working under Dr. Hai Jiang. His research focuses on Deep Reinforcement Learning (DRL) and Deep Inverse Reinforcement Learning (DIRL), with application in optimizing the ride-hailing experience in autonomous taxi systems. His research interests include machine learning, data science, business analytics, mathematical modeling, and operations research, particularly in transportation & logistics. 
 
 ======
