@@ -7,18 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant in the Department of Industrial Engineering at Tsinghua University (Beijing, China), working under Associate Professor [Dr. Hai Jiang](https://www.ie.tsinghua.edu.cn/eng/info/1051/1023.htm). My research interest lies in the intersection of mathematical modeling, data-driven optimization, machine learning, data analysis, and operations research with applications in transportation, environmental challenges, healthcare, and energy systems.
+I am a Research Assistant in the Department of Industrial Engineering at [Tsinghua University](https://www.tsinghua.edu.cn) (Beijing, China), working under Associate Professor [Dr. Hai Jiang](https://www.ie.tsinghua.edu.cn/eng/info/1051/1023.htm). My research interest lies in the intersection of mathematical modeling, data-driven optimization, machine learning, data analysis, and operations research with applications in transportation, environmental challenges, healthcare, and energy systems.
+
+Currently, I am working on route recommendation and planning for autonomous vehicles using Deep Inverse Reinforcement Learning (DIRL). I am training neural network models based on the combination of multigraph attention fusion, transformer, and extended LSTM (xLSTM) to compute the underlying reward function for each state in the environment. The models employ maximum entropy DIRL to infer reward functions from observed behaviors, which helps optimize routes by incorporating traffic data and road conditions. My work aims to advance the state of the art in intelligent transportation systems by improving route efficiency and safety. This contributes to the broader field of smart mobility solutions by addressing the limitations of current autonomous vehicle technologies.
+
+Rafaqat was awarded a Visiting Researcher fellowship by the Ministry of Education of the Slovak Republic under SAIA program. He worked in the Department of Mathematical Methods and Operations Research at the [University of Zilina](https://www.uniza.sk) (Slovakia) with [Prof. Dr. Lubos Bunza](http://frdsa.uniza.sk/~buzna/), where I worked on optimization models and solution algorithms for cross-border and inter-regional multimodal journey planning.
 
 
-
-My research interests lie at the intersection of mathematical modeling, data- driven optimization, machine learning, data analysis and operations research, with applications in transportation, environmental challenges, healthcare and energy systems. My current research fo- cuses primarily on improving transportation systems through data-driven approaches. This involves using mathematical modeling, optimization techniques, advanced machine learning, and deep learn- ing methods to address challenges in transportation and mobility. The goal is to create innovative solutions that improve the efficiency of transport and user experience.
-
-
-Rafaqat Ali is a Research Assistant in the Department of Industrial Engineering at Tsinghua University, working under Dr. Hai Jiang. His research focuses on Deep Reinforcement Learning (DRL) and Deep Inverse Reinforcement Learning (DIRL), with application in optimizing the ride-hailing experience in autonomous taxi systems. His research interests include machine learning, data science, business analytics, mathematical modeling, and operations research, particularly in transportation & logistics. 
-
-======
-Rafaqat was awarded a Visiting Researcher fellowship by the Ministry of Education of Slovak Republic under SAIA program. He worked in the Department of Mathematical Methods and Operations Research at the University of Zilina (Slovakia) with Prof. Dr. Lubos Bunza, where he worked on optimization models and solution algorithms for cross-border and inter-regional multimodal journey planning.
-
-======
-He received his M.Eng in Electronics and Communication Engineering from the Beijing Institute of Technology - Beijing, where he worked with Dr. Zhenyu Liu on Spectrum sensing techniques in cooperative cognitive radio networks. He successfully conducted a research study on advanced technology in the field of cooperating cognitive radios. He received his B.Sc in Telecommunication Engineering from the University of Engineering and Technology Peshawar, Pakistan in 2012. 
+I obtained a master's in Electronics and Communication Engineering from the [Beijing Institute of Technology](https://www.bit.edu.cn) (Beijing, China), where he worked with Dr. Zhenyu Liu on Spectrum sensing techniques in cooperative cognitive radio networks. I successfully conducted a research study on advanced technology in the field of cooperating cognitive radios. I received my bachelor's in Telecommunication Engineering from the University of Engineering and Technology Peshawar, Pakistan in 2012. 
 
