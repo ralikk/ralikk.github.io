@@ -5,7 +5,7 @@ category: working
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-11-03
 venue: 'PLoS ONE'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287604)'
+paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287604'
 citation: 'Ali R, Jiang H, Buzna L (2023) Traveling itinerary problem in a scheduled multimodal transportation network for a fixed sequence of cities. PLoS ONE 18(11): e0287604. https://doi.org/10.1371/journal.pone.0287604'
 ---
 
